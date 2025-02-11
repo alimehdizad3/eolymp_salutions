@@ -1,2 +1,2 @@
-# eolymp_salutions
+# eolymp_solutions
 Solutions to Eolymp problems
